@@ -1,6 +1,9 @@
 # TP Docker
 
-You must folow each folders to see what you must do.
+
+First of all, click the "This template" button to create your repo.
+
+Then, you must folow each folders to see what you must do.
 
 Then, you must submit on the https://courso.beaussan.io/ platform (Login with the email you provided in the last TP).
 
